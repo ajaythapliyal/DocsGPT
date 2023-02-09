@@ -24,7 +24,7 @@ export default function ComingSoon() {
 
   return (
     <div className="flex flex-col justify-center h-screen">
-      <h1 className="text-4xl font-semibold ml-[40vw] relative">
+      <h1 className="text-4xl font-semibold mx-[20vw] relative">
         DocsGPT Coming Soon{dots} <span className="absolute left-112">🦖</span>
       </h1>
     </div>
