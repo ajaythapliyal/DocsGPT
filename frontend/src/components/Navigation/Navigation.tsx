@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
-import Arrow1 from './imgs/arrow.svg';
-import Key from './imgs/key.svg';
-import Info from './imgs/info.svg';
-import Link from './imgs/link.svg';
+import React from 'react';
+import Arrow1 from './../../assets/arrow.svg';
+import Key from './../../assets/key.svg';
+import Info from './../../assets/info.svg';
+import Link from './../../assets/link.svg';
 
 function MobileNavigation() {
   return <div>Mobile Navigation</div>;

@@ -1,1 +1,3 @@
-export default function PastChat() {}
+export default function PastChat() {
+  return <div>placeholder</div>;
+}
